@@ -1,0 +1,14 @@
+E:\Xamarin - Apps\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
+E:\Xamarin - Apps\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
+E:\Xamarin - Apps\App3\App3\App3\bin\Debug\netstandard2.0\ref\App3.dll
+E:\Xamarin - Apps\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\ref\App3.dll
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\App3.csproj.CoreCompileInputs.cache
+E:\Xamarin - Apps\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
